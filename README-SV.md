@@ -1,4 +1,4 @@
-# 👑 Terminalhubben
+#  Terminalhubben
 
 ## AI Operations Platform for Modern Warehouses & Logistics
 
